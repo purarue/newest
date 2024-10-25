@@ -21,12 +21,12 @@ Optional arguments:
 
 Using `go install` to put it on your `$GOBIN`:
 
-`go install github.com/seanbreckenridge/newest@latest`
+`go install github.com/purarue/newest@latest`
 
 Manually:
 
 ```bash
-git clone https://github.com/seanbreckenridge/newest
+git clone https://github.com/purarue/newest
 cd ./newest
 go build .
 # copy binary somewhere on your $PATH
